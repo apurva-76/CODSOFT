@@ -12,4 +12,4 @@ A clean and simple "To-Do List App" developed using Python and Tkinter, with sup
 2. Clone or download the repo.
 3. Run todo_gui.py.
 
-![App Screenshot](Todolist_task.png)
+![App Screenshot](https://github.com/apurva-76/CODSOFT/blob/main/Todolist_task.PNG)
